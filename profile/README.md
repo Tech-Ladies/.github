@@ -33,7 +33,7 @@ Se você compartilha dos mesmos valores e acredita em um futuro mais inclusivo p
 
 Estamos sempre em busca de parceiros, colaboradores e aliados que queiram fazer a diferença. Fique à vontade para nos seguir, abrir discussões ou entrar em contato para saber mais sobre nossos projetos e iniciativas.
 
-- **Website**: [Tevora Tech](https://www.tevoratech.com.br/)) 🌐
+- **Website**: [Tevora Tech](https://www.tevoratech.com.br/) 🌐
 - **Twitter**: [@tevoratech](https://twitter.com/tevoratech) 🐦
 - **LinkedIn**: [tevoratech](https://www.linkedin.com/company/tevoratech) 💼
 - **Email**: contato@tevoratech.com.br 📧

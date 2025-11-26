@@ -1,6 +1,6 @@
-# TechLadies 🚀
+# Tevora Tech 🚀
 
-Bem-vindo à **TechLadies**! Somos uma **startup de tecnologia inclusiva e diversificada**, comprometida com a **transparência** ✨ e **inovação** 💡 no mundo da tecnologia. Nosso objetivo é construir um ambiente mais inclusivo e acessível, onde pessoas de todas as origens e gêneros possam contribuir para o avanço tecnológico 🌍.
+Bem-vindo à **Tevora Tech**! Somos uma **startup de tecnologia inclusiva e diversificada**, comprometida com a **transparência** ✨ e **inovação** 💡 no mundo da tecnologia. Nosso objetivo é construir um ambiente mais inclusivo e acessível, onde pessoas de todas as origens e gêneros possam contribuir para o avanço tecnológico 🌍.
 
 ## Sobre Nós 👩‍💻👩‍💼
 
@@ -20,6 +20,7 @@ Aqui na TechLadies, trabalhamos em uma variedade de projetos que abrangem áreas
 - **Automação de Processos** 🤖
 - **Inteligência Artificial e Machine Learning** 🧠💻
 - **Tecnologias Web e Mobile** 📱🌍
+- **ChatBots converse com seus dados e clientes 🤖**
 - **Consultoria e Implementação de TI** 💡
 
 Cada projeto reflete nosso compromisso com a qualidade, diversidade e impacto social positivo 🌱. Convidamos você a explorar nossos repositórios e colaborar conosco para tornar o futuro da tecnologia mais inclusivo e acessível.
@@ -32,10 +33,10 @@ Se você compartilha dos mesmos valores e acredita em um futuro mais inclusivo p
 
 Estamos sempre em busca de parceiros, colaboradores e aliados que queiram fazer a diferença. Fique à vontade para nos seguir, abrir discussões ou entrar em contato para saber mais sobre nossos projetos e iniciativas.
 
-- **Website**: [www.techladies.com.br](http://www.techladies.com.br) 🌐
-- **Twitter**: [@techladies](https://twitter.com/techladies) 🐦
-- **LinkedIn**: [TechLadies](https://www.linkedin.com/company/techladies) 💼
-- **Email**: contato@techladies.com.br 📧
+- **Website**: [([Tevora Tech](https://www.tevoratech.com.br/)) 🌐
+- **Twitter**: [@tevoratech](https://twitter.com/tevoratech) 🐦
+- **LinkedIn**: [tevoratech](https://www.linkedin.com/company/tevoratech) 💼
+- **Email**: contato@tevoratech.com.br 📧
 
 ## Licença 📜
 
